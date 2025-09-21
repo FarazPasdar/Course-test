@@ -5,3 +5,7 @@ const test = () => {
 const submit = () => {
     return true
 }
+
+const register = () => {
+    return true
+}
