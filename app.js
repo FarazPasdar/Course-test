@@ -10,3 +10,6 @@ const submit = () => {
     return false
 }
 
+const faraz = () => {
+    return true
+}
